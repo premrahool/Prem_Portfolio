@@ -43,7 +43,7 @@ box-shadow: 0 20px 40px rgba(0,0,0,0.4);}
  .card .slide.slide2 .content p { margin: 0; padding: 0; text-align: center;
      color: #fff;}
  .card .slide.slide2 .content h3 {margin: 0 0 10px 0;padding: 0;font-size: 24px;text-align: center;color: #fff;} 
- .card1:hover {box-shadow: 0px 0px 10px #0b5ed7;/* border: 2px solid #ffffff26; */}
+ .card1:hover {box-shadow: 0px 0px 10px #0b5ed7;}
 
  /* Skill  */
  .skill{padding-top: 150px; padding-bottom: 100px; position: relative;}
@@ -51,6 +51,7 @@ box-shadow: 0 20px 40px rgba(0,0,0,0.4);}
 .img-icon{height: 50px;}
 .html{color: #f5f5f5;}
 .skill-icon{box-shadow: 4px 3px 14px #121212;border-radius: 8px; padding: 18px 18px;}
+.skill-icon:hover{transition: all linear .2s;transform: scale(1.20);}
 .skill-1{ margin-top: 30px;}
 
 /* Project */
@@ -109,7 +110,7 @@ box-shadow: 0 20px 40px rgba(0,0,0,0.4);}
 /* / ##Device = Most of the Smartphones Mobiles (Portrait), ##Screen = B/w 320px to 479px / */
 @media (min-width:320px) and (max-width:480px){
 .aboutme {  padding-top: 50px;padding-bottom: 50px;}
-.img-bg {height: 275px;}
+.img-bg {height: 270px;width: 270px;}
 .about-txt{text-align: center;margin-top: 20px;}
 .head-name {font-size: 20px;}
 .detail-para{font-size: 14px; padding: 10px 20px;}

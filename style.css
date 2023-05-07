@@ -120,6 +120,9 @@ box-shadow: 0 20px 40px rgba(0,0,0,0.4);}
 .skillhead{position: static;transform: none;text-align: center;font-size: 40px;}
 .skill{padding-top: 0;}
 .skillhead{margin-bottom: 28px;}
+.skill-icon{margin-bottom: 20px;}
+.skill-icon:hover{transform: none;}
+.skill-1{margin-top: 0;}
 .headedu1{position: static;transform: none;font-size: 40px;text-align: center;}
 .card1{margin: 15px auto;}
 .footerwrap{text-align: center;}

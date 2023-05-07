@@ -82,7 +82,7 @@ box-shadow: 0 20px 40px rgba(0,0,0,0.4);}
 .socialicons a.fb{padding: 6px 11px;}
 .socialicons a:hover{background-color: #0b5ed7;}
 .socialicons a i{transition: all linear .2s;}
-/* .socialicons a:hover i{transform: rotate(360deg);} */
+.socialicons a:hover i{transform: rotate(360deg);}
 
 
 

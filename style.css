@@ -13,7 +13,7 @@ body{background-color:#222;}
 /* Navbar  */
 .mainNavbar .navbar .nav-item .nav-link {color: #f5f5f5; font-size: 15px;font-weight: 500;padding: 1px 35px;}
 .mainNavbar .navbar .nav-item .nav-link:hover{color: #ffffffad;}
-.logoMain{height: 40px;}
+.logoMain{height: 70px;}
 
 /* About-me */
 .aboutme{padding-top: 120px;padding-bottom: 120px;}
